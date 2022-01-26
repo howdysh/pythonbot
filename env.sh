@@ -1,2 +1,2 @@
-cd /pufferpanel && pip install -r requirements.txt
+pip install discord.py
 python3 /pufferpanel/bot.py
