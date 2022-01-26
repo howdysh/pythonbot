@@ -1,2 +1,2 @@
 pip install discord.py
-python3 $HOME/bot.py
+cd /pufferpanel && python3 bot.py
