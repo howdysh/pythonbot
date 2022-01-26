@@ -1,2 +1,2 @@
-pip install -r /pufferpanel/requirements.txt
+cd /pufferpanel && pip install -r requirements.txt
 python3 /pufferpanel/bot.py
